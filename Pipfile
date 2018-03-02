@@ -19,6 +19,7 @@ matplotlib = "*"
 seaborn = "*"
 bokeh = "*"
 "psycopg2-binary" = "*"
+scipy = "*"
 
 
 [dev-packages]
