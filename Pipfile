@@ -12,6 +12,13 @@ dask = "*"
 toolz = "*"
 "s3contents" = "*"
 ipython = "*"
+numpy = "*"
+ipywidgets = "*"
+pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+bokeh = "*"
+"psycopg2-binary" = "*"
 
 
 [dev-packages]
